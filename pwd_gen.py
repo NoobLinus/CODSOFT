@@ -4,10 +4,11 @@
 # In[1]:
 
 
-print("----Codsoft Task-2----")
+print("----Codsoft Task-3----")
 print("PASSWORD GENERATOR")
 
 # Importing libraries
+#This is task 3
 import random
 import string
 
